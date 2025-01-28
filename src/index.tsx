@@ -10,7 +10,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/react-portfolio-template">
+    <BrowserRouter basename="/009Rambo/react-portfolio-template">
       <App />
     </BrowserRouter>
   </React.StrictMode>
